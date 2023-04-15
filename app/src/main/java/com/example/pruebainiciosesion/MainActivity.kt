@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         Funciones();
     }
     private fun funciones(){
-        lateini  EditText edtUsuario, edtPassword;
+        lateini  EditText edtUsuario, edtPassworddddddd;
 
     }
 
